@@ -65,7 +65,7 @@
             "$id": "#/items/properties/name/properties/e-WindLidar",
             "type": "string",
             "title": "e-WindLidar variable name",
-            "description": "e-WindLidar variable name used in Lidar Data Converter. https://github.com/e-WindLidar/Lidaco",
+            "description": "e-WindLidar variable name. https://zenodo.org/record/2478051#.XR24DKeQ3y8",
             "default": "",
             "examples": [
               "vertical_wind_speed"
