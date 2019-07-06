@@ -1,7 +1,7 @@
 {
   "$id": "http://example.com/root.json",
   "type": "array",
-  "title": "WIDACO Root Schema",
+  "title": "WINDACO Root Schema",
   "items": {
     "$id": "#/items",
     "type": "object",
