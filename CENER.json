@@ -5,7 +5,7 @@
       "cf": "",
       "open_oa": "",
       "iec_61400-25": "",
-      "e-WindLidar": "",
+      "lidaco": "",
       "grib": "",
       "other": []
     },
@@ -26,7 +26,7 @@
       "cf": "northward_wind",
       "open_oa": "",
       "iec_61400-25": "",
-      "e-WindLidar": "",
+      "lidaco": "",
       "grib": "34 E132",
       "other": ["ws_y", "ws_v", "wind speed", "y_wind", "geostrophic_northward_wind"]
     },
@@ -46,7 +46,7 @@
       "cf": "eastward_wind",
       "open_oa": "",
       "iec_61400-25": "",
-      "e-WindLidar": "",
+      "lidaco": "",
       "grib": "33 E131",
       "other": ["ws_x", "ws_u", "wind speed", "x_wind", "geostrophic_eastward_wind"]
     },
@@ -66,7 +66,7 @@
       "cf": "wind_from_direction",
       "open_oa": "",
       "iec_61400-25": "",
-      "e-WindLidar": "",
+      "lidaco": "",
       "grib": "31",
       "other": []
     },
@@ -86,7 +86,7 @@
       "cf": "longitude",
       "open_oa": "",
       "iec_61400-25": "",
-      "e-WindLidar": "",
+      "lidaco": "",
       "grib": "",
       "other": []
     },
@@ -106,7 +106,7 @@
       "cf": "latitude",
       "open_oa": "",
       "iec_61400-25": "",
-      "e-WindLidar": "",
+      "lidaco": "",
       "grib": "",
       "other": []
     },
@@ -126,7 +126,7 @@
       "cf": "",
       "open_oa": "",
       "iec_61400-25": "",
-      "e-WindLidar": "",
+      "lidaco": "",
       "grib": "",
       "other": []
     },
@@ -146,7 +146,7 @@
       "cf": "",
       "open_oa": "",
       "iec_61400-25": "",
-      "e-WindLidar": "",
+      "lidaco": "",
       "grib": "",
       "other": []
     },
@@ -166,7 +166,7 @@
       "cf": "",
       "open_oa": "",
       "iec_61400-25": "",
-      "e-WindLidar": "",
+      "lidaco": "",
       "grib": "",
       "other": []
     },
